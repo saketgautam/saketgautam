@@ -27,7 +27,7 @@
 
 </br>
 
-## Languages and Tools:
+## Languages and Tools
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketgautam&langs_count=20&theme=react&custom_title=Most used Languages" />
