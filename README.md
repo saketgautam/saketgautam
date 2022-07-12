@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/saketgautam?tab=repositories](https://github.com/saketgautam?tab=repositories)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1et7BvkfK3TXKJfZol__JKGnfD_1ahgHC/view?usp=sharing](https://drive.google.com/file/d/1et7BvkfK3TXKJfZol__JKGnfD_1ahgHC/view?usp=sharing)
+- 📄 Know about my experiences [https://shorturl.at/bNWX5](https://shorturl.at/bNWX5)
 
 - 💬 How to connect with me **https://www.linkedin.com/in/saket-gautam/**
 
