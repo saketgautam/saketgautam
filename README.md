@@ -31,7 +31,7 @@
 
 <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 height= 250 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketgautam&theme=react&border_color=61dafb" />
+      <img width=325 height= 270 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketgautam&theme=react&border_color=61dafb" />
     </a> 
 </div>
  
