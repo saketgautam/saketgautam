@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Saket</h1>
-<h4 align="center">Intern'23 @SLB (Schlumberger) | Web Dev Intern'22 @DevComm | Trainee'21 @ONGC, Dehradun | NITA'23 | </h4>
+<h3 align="center">Intern'23 @SLB (Schlumberger) | Web Dev Intern'22 @DevComm | Trainee'21 @ONGC, Dehradun |  </h3>
 </hr>
-<h4 align="center">Super30ian'19 | RKMVian'17</h4>
+<h3 align="center">NITA'23 | Super30ian'19 | RKMVian'17</h3>
 </br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
